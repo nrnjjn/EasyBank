@@ -28,6 +28,32 @@
   color: #61dafb;
 }
 
+
+.landing{
+  background-image: url('easyland.jpg');
+  height: 40rem;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  overflow: auto;
+}
+
+
+.userhome{
+  background-image: url('userh.jpg');
+  height: 40rem;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  overflow: auto;
+}
+
+.reg{
+  background-image: url('reg.jpg');
+  height: 40rem;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  overflow: auto;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
